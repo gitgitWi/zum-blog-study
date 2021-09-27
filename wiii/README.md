@@ -1,4 +1,4 @@
-## wiii(@gitgitWi) 블로그 스터디
+## wiii([@gitgitWi](https://github.com/gitgitWi/zum-blog-study)) 블로그 스터디
 
 ### 21. 09. 29.
 
