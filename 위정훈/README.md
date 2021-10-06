@@ -1,5 +1,15 @@
 ## wiii([@gitgitWi](https://github.com/gitgitWi/zum-blog-study)) 블로그 스터디
 
+### 21. 10. 06.
+
+|제목|카테고리|링크|
+|---|---|---|
+| JS 환경에서 Batch Processing 만들어보기 | 구현? | [HashNode](https://wiii.hashnode.dev/js-batch-processing-1) / [Repository README](https://github.com/gitgitWi/TypeScriptPlayground/blob/main/playgrounds/labs/batch/README.md) |
+
+> Spring Batch 를 따라서 JS 환경에서 Batch Processing 만들어보기..
+> 
+> 아직 draft 이기도 하고, 시간도 엄고 이것저것 귀찮음에.. 커뮤니티 글마냥 편하게 썻네여..ㅋㅋ
+
 ### 21. 09. 29.
 
 |제목|카테고리|링크|
