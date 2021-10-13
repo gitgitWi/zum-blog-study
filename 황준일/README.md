@@ -1,11 +1,24 @@
 # 황준일 블로그 스터디
 
 
+## [42주차]
+
+|제목|카테고리|설명|링크|
+|---|---|---|---|
+|개발/학업 관련 질의 응답(초안)|QNA|다양한 고민에 대한 답변|[링크](https://zuminternet.notion.site/95f0ea201c19444a829ecc7a48f830ee)|
+
+## [41주차]
+
+|제목|카테고리|설명|링크|
+|---|---|---|---|
+|Vue SSR 제대로 적용하기(feat. Vanilla SSR)|기술블로그|SSR에 대해 깊이 이해하고 적용해보는 과정에 대해 다룹니다.|[링크](https://zuminternet.github.io/vue-ssr/)|
+
+
 ## [40주차]
 
 |제목|카테고리|설명|링크|
 |---|---|---|---|
-|Vue SSR 제대로 적용하기(feat. Vanilla SSR)|기술블로그|SSR에 대해 깊이 이해하고 적용해보는 과정에 대해 다룹니다.|[링크](https://www.notion.so/zuminternet/Vue-SSR-feat-Vanilla-SSR-af75f5daf46f498fbdea6e402a059c41)|
+|(초안)Vue SSR 제대로 적용하기(feat. Vanilla SSR)|기술블로그|SSR에 대해 깊이 이해하고 적용해보는 과정에 대해 다룹니다.|[링크](https://www.notion.so/zuminternet/Vue-SSR-feat-Vanilla-SSR-af75f5daf46f498fbdea6e402a059c41)|
 
 ## [37주차]
 
