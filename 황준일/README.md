@@ -1,5 +1,11 @@
 # 황준일 블로그 스터디
 
+## [44주차]
+
+|제목|카테고리|설명|링크|
+|---|---|---|---|
+|Effectuation Process 세미나 리뷰|회고/리뷰|Effectuation에 대해 학습한 내용을 정리하고 실천 계획을 세워보는 내용|[링크](https://zuminternet.notion.site/Effectuation-Process-a84dfc9670b0417690f973bd760b0ce5)|
+
 ## [42주차]
 
 |제목|카테고리|설명|링크|
