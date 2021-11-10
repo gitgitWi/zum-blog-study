@@ -4,4 +4,5 @@
 |---|---|---|---|---|
 |2021/10/20|DB|리플리케이션(Replication)|데이터베이스 리플리케이션이 무엇이고 실제 운영환경에서 경험했던 문제에대해 정리했습니다|[리플리케이션(Replication)](https://iiaii.tistory.com/7)|
 |2021/11/03|DB|리플리케이션의 문제와 해결방법 (복제지연, semi-sync)|리플리케이션에서 발생할 수 있는 복제지연, 데이터 정합성 문제와 해결방법에 대해 정리했습니다|[리플리케이션의 문제와 해결방법 (복제지연, semi-sync)](https://iiaii.tistory.com/8)|
+|2021/11/10|DB|샤딩(Sharding)|데이터베이스의 꽃, 샤딩에 대해 알아봅니다|[샤딩(Sharding)](https://zuminternet.notion.site/zuminternet/Sharding-e0a8d6420bfa41c3950a4e596080702d)|
 
