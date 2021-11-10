@@ -4,7 +4,7 @@
 
 |제목|카테고리|설명|링크|
 |---|---|---|---|
-|NestJS Custom Caching Decorator 만들기|회고/리뷰|NestJS에 호환 되는 Chaching Decorator 를 만들기 위한 삽질 과정을 담고 있습니다.|[링크](https://zuminternet.notion.site/NestJS-Custom-Caching-Decorator-46a0a55586c94abc941fe3ca4e7ba338)|
+|NestJS Custom Caching Decorator 만들기|기술블로그|NestJS에 호환 되는 Chaching Decorator 를 만들기 위한 삽질 과정을 담고 있습니다.|[링크](https://zuminternet.notion.site/NestJS-Custom-Caching-Decorator-46a0a55586c94abc941fe3ca4e7ba338)|
 
 ## [44주차]
 
