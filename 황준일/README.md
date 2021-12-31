@@ -1,5 +1,11 @@
 # 황준일 블로그 스터디
 
+## [49주차]
+
+|제목|카테고리|설명|링크|
+|---|---|---|---|
+|Zum Portal Core JS 소개|기술블로그|줌인터넷 프론트엔드 파트에서 사용되고 있는 표준화 core package에 대해 다룹니다.|[링크](https://zuminternet.github.io/zum-portal-core-js/)|
+
 ## [46주차]
 
 |제목|카테고리|설명|링크|
