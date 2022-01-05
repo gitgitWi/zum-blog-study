@@ -9,5 +9,7 @@
 |JAVA|객체지향|엘레강트 오브젝트 원칙을 적용하여 리팩토링을 해봅시다(1) |[링크](https://dapper-naranja-75b.notion.site/1-657b09f40a544cb7997fc8bb0fc448ea)|
 |JAVA|객체지향|엘레강트 오브젝트 원칙을 적용하여 리팩토링을 해봅시다(2) |[링크](https://dapper-naranja-75b.notion.site/6-2-f4ce8a3c11fb4e1dbab68bffa5207a00)|
 |INFRA|서버|컨테이너 가상화와 도커(1) |[링크](https://dapper-naranja-75b.notion.site/7-d83ebc4518e0428fa54a5c6d26ea0f15)|
-|JAVA|객체지향|생성자 대신 정적 팩토리 메서드를 고려하라 |[링크](https://peacebestill.oopy.io/java/effective-java/1)|
+|JAVA|객체지향|생성자 대신 정적 팩토리 메서드를 고려하자 |[링크](https://peacebestill.oopy.io/java/effective-java/1)|
+|JAVA|객체지향|private 생성자나 열거 타입으로 싱글턴임을 보장하자 |[링크](https://peacebestill.oopy.io/java/effective-java/2)|
+|JAVA|객체지향|인스턴스 생성을 막으려거든 private 생성자를 사용하자  |[링크](https://peacebestill.oopy.io/java/effective-java/3)|
 
