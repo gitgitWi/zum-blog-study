@@ -1,5 +1,13 @@
 ## wiii([@gitgitWi](https://github.com/gitgitWi/zum-blog-study)) 블로그 스터디
 
+### 22. 01. 19.
+
+|제목|카테고리|링크|
+|---|---|---|
+| Yarn Berry 적용 1일차에 느낀 점 (Nest.js, Fastify ⤴️ / TurboRepo ⤵️) | TIL | [Hashnode](https://wiii.hashnode.dev/wil-01-yarn-berry), [velog](https://velog.io/@johnwi/wil-01-Yarn-Berry) |
+
+<br />
+
 ### 22. 01. 12.
 
 |제목|카테고리|링크|
